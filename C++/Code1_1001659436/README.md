@@ -4,4 +4,4 @@ RUN:
 
 make
 
-./a.out
+./Code1_1001659436.e
